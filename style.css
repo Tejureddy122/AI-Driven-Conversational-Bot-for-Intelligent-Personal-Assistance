@@ -1,0 +1,22 @@
+.red{
+  color: red;
+}
+
+.blue{
+  color: blue;
+}
+
+.box{
+  border:  3px solid black;
+  background-color: pink;
+}
+
+.btnStyle{
+  background-color: blue;
+  color: white;
+} 
+
+.ele {
+  text-decoration: underline;
+  color: purple;
+}
